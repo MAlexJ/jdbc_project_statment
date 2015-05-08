@@ -4,7 +4,7 @@ public class TestConnectionTryResourse {
 
     //Доступ к БД: Login/Password/URL
     private static String LOGIN = "root";
-    private static String PASSWORD = "root";
+    private static String PASSWORD = "2687484a";
     private static String URL = "jdbc:mysql://localhost:3306/mydbtest";
 
 
